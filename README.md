@@ -1,4 +1,4 @@
-# Here are my training projects
+# Here are my projects
 
 *NameSurfer*
 
